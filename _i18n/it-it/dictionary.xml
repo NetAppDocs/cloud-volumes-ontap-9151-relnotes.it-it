@@ -822,4 +822,8 @@
   <block id="dd0e59dbbbb851076ddfea2660d5a696" category="paragraph">La patch 9.15.1 P7 è ora disponibile per Cloud Volumes ONTAP per tutti i cloud provider. BlueXP richiederà di aggiornare i sistemi esistenti a questa versione di patch.</block>
   <block id="7fa6a95154192207488dcc8bf13f9366" category="inline-link-macro">Visualizzare l'elenco dei bug corretti nella patch P7</block>
   <block id="4e03a43ea47aeb577c42f9ad324a3454" category="paragraph"><block ref="f1b8440cb42692a81435e657f5965214" category="inline-link-macro-rx"></block> (Accesso al sito di supporto NetApp richiesto).</block>
+  <block id="91091878edec991a94dc77ddb63a59bf" category="section-title">9.15.1 P8:00 (17 aprile 2025)</block>
+  <block id="77b3ec915fd6de5dcc6c7a7f37e3e15c" category="paragraph">La patch 9.15.1 P8 è ora disponibile per Cloud Volumes ONTAP per tutti i cloud provider. BlueXP richiederà di aggiornare i sistemi esistenti a questa versione di patch.</block>
+  <block id="a5757ef07045a814bda504c5b48177c6" category="inline-link-macro">Visualizzare l'elenco dei bug corretti nella patch P8</block>
+  <block id="b648a8dcdb79fe604205b1a88a989f8a" category="paragraph"><block ref="0e9162f512f30fecd64e4fc5cb3134b7" category="inline-link-macro-rx"></block> (Accesso al sito di supporto NetApp richiesto).</block>
 </blocks>
