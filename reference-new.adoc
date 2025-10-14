@@ -22,7 +22,7 @@ Ulteriori funzionalità e miglioramenti sono stati introdotti anche nelle ultime
 
 == 9.15.1 P14 (09 ottobre 2025)
 
-La patch 9.15.1 P14 è ora disponibile per Cloud Volumes ONTAP per tutti i provider cloud. NetApp Console ti chiederà di aggiornare i tuoi sistemi esistenti a questa versione di patch.
+La patch 9.15.1 P14 è ora disponibile per Cloud Volumes ONTAP per tutti i provider cloud. La NetApp Console ti chiederà di aggiornare i tuoi sistemi esistenti a questa versione di patch.
 
 link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/downloads-tab/download/62632/9.15.1P14["Visualizza l'elenco dei bug risolti nella patch P14"^] (È necessario effettuare l'accesso al sito di supporto NetApp ).
 
@@ -30,7 +30,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 == 9.15.1 P13 (09 ottobre 2025)
 
-La patch 9.15.1 P13 è ora disponibile per Cloud Volumes ONTAP per tutti i provider cloud. NetApp Console ti chiederà di aggiornare i tuoi sistemi esistenti a questa versione di patch.
+La patch 9.15.1 P13 è ora disponibile per Cloud Volumes ONTAP per tutti i provider cloud. La NetApp Console ti chiederà di aggiornare i tuoi sistemi esistenti a questa versione di patch.
 
 link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/downloads-tab/download/62632/9.15.1P13["Visualizza l'elenco dei bug risolti nella patch P13"^] (È necessario effettuare l'accesso al sito di supporto NetApp ).
 
